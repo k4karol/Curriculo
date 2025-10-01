@@ -8,11 +8,13 @@
 
 body {
     font-family: 'Chakra Petch', sans-serif;
+    background-color: #f29bf3;
 }
 
 h1, h2, h5 {
     color: var(--cor-secundaria);
     font-weight: 700;
+    background-color: #d086e9;
 }
 
 footer a {
